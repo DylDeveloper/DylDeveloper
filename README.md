@@ -5,4 +5,3 @@
 - 🤔 I’m looking for help with Python and getting into C/C++ and HTML
 - 💬 Ask me about anything 
 - 📫 You can reach me through discord: @elonmusk69420
--->

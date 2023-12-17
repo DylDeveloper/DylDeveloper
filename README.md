@@ -1,14 +1,14 @@
-### Hi there 👋
+# Welcome!
+I am DylDev, I am your average person that just happens to know a little bit of Python. The main thing I am currently working on is ETS2 Lane Assist by Tumppi066 which you can find here:
+https://github.com/Tumppi066/Euro-Truck-Simulator-2-Lane-Assist
 
-- 🔭 I’m currently working on only one project
-  - ETS2 Lane Assist (https://github.com/Tumppi066/Euro-Truck-Simulator-2-Lane-Assist, NOT MINE)
+You can reach me through Discord: @dyl_dev (https://discordapp.com/users/708644455535869982)
 
-- 🌱 I’m currently learning Python, HTML, CSS, JS
-- 🤔 I’m looking for help with Python, HTML, CSS, JS
-- 💬 Ask me about anything 
-- 📫 You can reach me through Discord: @dyl_dev (https://discordapp.com/users/708644455535869982)
+<hr></hr>
 
-</br>
-<p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=DylDevs&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DylDevs&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![DylDev GitHub stats](https://github-readme-stats.vercel.app/api?username=DylDevs&show_icons=true&theme=github_dark)
+
+
+
+

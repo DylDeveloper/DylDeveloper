@@ -1,5 +1,5 @@
 # Welcome!
-I am DylDev, I am your average person that just happens to know a little bit of Python. The main thing I am currently working on is ETS2 Lane Assist by Tumppi066 which you can find here:
+I am DylDev, I am your average person that just happens to know a little bit of Python. The main project that I am currently working on is ETS2 Lane Assist by Tumppi066 which you can find here:
 https://github.com/Tumppi066/Euro-Truck-Simulator-2-Lane-Assist
 
 You can reach me through Discord: @dyl_dev (https://discordapp.com/users/708644455535869982)

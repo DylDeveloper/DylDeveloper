@@ -1,5 +1,5 @@
-# Welcome!
-I am DylDev, I am your average person that just happens to know a little bit of Python. The main project that I am currently working on is ETS2 Lane Assist by Tumppi066 which you can find here:
+# Hi There! 👋
+I am DylDev. I am just an everyday high-school student who really enjoys coding. Specifically in Python. I only work on one project and that is Euro truck Simulator 2 Lane Assist, which will keep the truck inside of the lane in Euro Truck Simulator 2. You can find more about the project and what i've done here:
 
 https://github.com/ETS2LA
 

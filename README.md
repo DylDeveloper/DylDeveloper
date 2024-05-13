@@ -8,8 +8,8 @@ You can reach me through Discord: @dyl_dev. ([Or, use this link](https://discord
 <hr></hr>
 Languages:
 
-Fluent in: Python\
-Working on: HTML, CSS, Javascript, ROBOTC, C, and Typescript (Always open to trying a new one)
+Fluent in: Python and ROBOTC\
+Working on: HTML, CSS, Javascript, C, C++, and Typescript (Always open to trying a new one)
 <hr></hr>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DylDevs&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

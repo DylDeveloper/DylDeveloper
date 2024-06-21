@@ -11,5 +11,5 @@ I know several languages, some I am experienced in, like Python, some i'm almost
 Im always open to learn more languages and get better at languages I already know.
 
 # Contact Me
-Discord: dyl_dev or 
+Discord: dyl_dev or https://discordapp.com/users/708644455535869982 \
 Email: dylanb92010@gmail.com

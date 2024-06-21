@@ -1,16 +1,15 @@
-# Hi There! 👋
-I am DylDev. I am just an everyday high-school student who really enjoys coding. Specifically in Python. I only work on one project and that is Euro truck Simulator 2 Lane Assist, which will keep the truck inside of the lane in Euro Truck Simulator 2. You can find more about the project and what i've done here:
+# Hi There 👋 
+My name is Dylan, I am a software developer in high school with the dream of becoming one. Alot of my free time is spent developing software such as Euro Truck Simulator 2 Lane Assist. I am really into machine learning, AI, and robotics.
 
-https://github.com/ETS2LA
+I compete on a FIRST Robotics FTC team, Georgia FTC Super Regional champion. I am also custom making a robot called the Lawnzilla which is an autonomous robotic lawn mower.
 
-You can reach me through Discord: @dyl_dev. ([Or, use this link](https://discordapp.com/users/708644455535869982)).
+I got into software development just over a year ago, and I hope my journey continues.
 
-<hr></hr>
-Languages:
+# Languages
+I know several languages, some I am experienced in, like Python, some i'm almost good at, like Typescript, Bash, and Powerscript, and some I have dipped in a little bit, like, C, HTML, and Kotlin
 
-Fluent in: Python and ROBOTC\
-Working on: HTML, CSS, Javascript, C, C++, Bash, Powerscript, and Typescript (Always open to trying a new one)
-<hr></hr>
+Im always open to learn more languages and get better at languages I already know.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DylDevs&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![DylDev GitHub stats](https://github-readme-stats.vercel.app/api?username=DylDevs&show_icons=true&theme=github_dark)
+# Contact Me
+Discord: dyl_dev or 
+Email: dylanb92010@gmail.com

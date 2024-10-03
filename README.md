@@ -4,8 +4,9 @@ My name is Dylan, I am a software developer (and sometimes a web developer) in h
 I compete on a FIRST Robotics team, previously participated in the GA FLL State Championship. Also working on a couple of custom robots.
 
 # Languages
-I know several languages, The only language i am currently fluent in is Python, some I'm almost good at, like Typescript, Bash, and Powerscript, and some I have dipped in a little bit like, C, GDScript, and Kotlin
-Im always open to learn more languages and get better at languages I already know.
+I know several languages, I am currently fluent in Python and Typescript/Javascript, some I'm almost good at, like Bash, and Powerscript, and some I have dipped in a little bit like, C, GDScript, and Kotlin
+I'
+m always open to learn more languages and get better at languages I already know.
 
 # Contact Me
 Discord: dyl_dev or https://discordapp.com/users/708644455535869982 \
